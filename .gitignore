@@ -1,0 +1,16 @@
+/backend/vendor
+/backend/node_modules
+/backend/.env*
+!/backend/.env.example
+/backend/storage/*.key
+/backend/.phpunit.cache
+
+/frontend/node_modules
+/frontend/.next
+/frontend/out
+/frontend/build
+/frontend/.env*
+!/frontend/.env.example
+
+.DS_Store
+Thumbs.db
